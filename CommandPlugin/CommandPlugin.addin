@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Assembly>
+      "C:\work\github\RevitPlugins\CommandPlugin\bin\x64\Debug\CommandPlugin.dll"
+    </Assembly>
+    <ClientId>7B1A8D48-4382-4A8C-800C-17A4D1499A31</ClientId>
+    <FullClassName>CommandPlugin.ExternalCommand</FullClassName>
+    <Text>External Command</Text>
+    <VendorId>Chaos</VendorId>
+    <VisibilityMode>AlwaysVisible</VisibilityMode>
+  </AddIn>
+</RevitAddIns>
