@@ -4,10 +4,11 @@
     <Assembly>
       "C:\work\github\RevitPlugins\CommandPlugin\bin\x64\Debug\CommandPlugin.dll"
     </Assembly>
-    <ClientId>7B1A8D48-4382-4A8C-800C-17A4D1499A31</ClientId>
+    <ClientId>7b1a8d48-4382-4a8c-800c-17a4d1499a31</ClientId>
     <FullClassName>CommandPlugin.ExternalCommand</FullClassName>
     <Text>External Command</Text>
-    <VendorId>Chaos</VendorId>
+    <VendorId>CHAG</VendorId>
+    <VendorDescription>Chaos Software Ltd., www.chaosgroup.com</VendorDescription>
     <VisibilityMode>AlwaysVisible</VisibilityMode>
   </AddIn>
 </RevitAddIns>

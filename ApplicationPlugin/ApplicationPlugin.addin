@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>ExternalApplication</Name>
+    <Assembly>C:\work\github\RevitPlugins\ApplicationPlugin\bin\x64\Debug\ApplicationPlugin.dll</Assembly>
+    <ClientId>4e37c0e3-7b1f-4fde-bff9-a559642b817b</ClientId>
+    <FullClassName>ApplicationPlugin.ExternalApplication</FullClassName>
+    <VendorId>CHAG</VendorId>
+    <VendorDescription>Chaos Software Ltd., www.chaosgroup.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>

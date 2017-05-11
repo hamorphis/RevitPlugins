@@ -5,6 +5,13 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommandPlugin", "CommandPlugin\CommandPlugin.csproj", "{7FD40FA6-90AA-4991-BEB3-D3401A3D7242}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApplicationPlugin", "ApplicationPlugin\ApplicationPlugin.csproj", "{F98169FB-524F-49CA-B545-7D81B32B9E49}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "misc", "misc", "{0F0951CD-0687-4F95-AC19-4D55D28C6C3C}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +22,10 @@ Global
 		{7FD40FA6-90AA-4991-BEB3-D3401A3D7242}.Debug|Any CPU.Build.0 = Debug|x64
 		{7FD40FA6-90AA-4991-BEB3-D3401A3D7242}.Release|Any CPU.ActiveCfg = Release|x64
 		{7FD40FA6-90AA-4991-BEB3-D3401A3D7242}.Release|Any CPU.Build.0 = Release|x64
+		{F98169FB-524F-49CA-B545-7D81B32B9E49}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{F98169FB-524F-49CA-B545-7D81B32B9E49}.Debug|Any CPU.Build.0 = Debug|x64
+		{F98169FB-524F-49CA-B545-7D81B32B9E49}.Release|Any CPU.ActiveCfg = Release|x64
+		{F98169FB-524F-49CA-B545-7D81B32B9E49}.Release|Any CPU.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
