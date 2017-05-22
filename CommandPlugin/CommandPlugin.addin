@@ -2,7 +2,7 @@
 <RevitAddIns>
   <AddIn Type="Command">
     <Assembly>
-      "C:\work\github\RevitPlugins\CommandPlugin\bin\x64\Debug\CommandPlugin.dll"
+      C:\work\github\RevitPlugins\CommandPlugin\bin\x64\Debug\CommandPlugin.dll
     </Assembly>
     <ClientId>7b1a8d48-4382-4a8c-800c-17a4d1499a31</ClientId>
     <FullClassName>CommandPlugin.ExternalCommand</FullClassName>

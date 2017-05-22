@@ -14,6 +14,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "misc", "misc", "{0F0951CD-0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DuplicateGraphics", "DuplicateGraphics\DuplicateGraphics.csproj", "{17F8647D-BECE-4C16-9287-F27A68A31639}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinTooltip", "WinTooltip\WinTooltip.csproj", "{14939CE5-EC27-4374-BE68-C993556E80CF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -32,6 +34,10 @@ Global
 		{17F8647D-BECE-4C16-9287-F27A68A31639}.Debug|Any CPU.Build.0 = Debug|x64
 		{17F8647D-BECE-4C16-9287-F27A68A31639}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{17F8647D-BECE-4C16-9287-F27A68A31639}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14939CE5-EC27-4374-BE68-C993556E80CF}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{14939CE5-EC27-4374-BE68-C993556E80CF}.Debug|Any CPU.Build.0 = Debug|x64
+		{14939CE5-EC27-4374-BE68-C993556E80CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14939CE5-EC27-4374-BE68-C993556E80CF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
